@@ -1,0 +1,2 @@
+# Bridge-FlashlightPuzzle
+🌉 Rule-based expert system for solving the Bridge &amp; Flashlight puzzle using AI search algorithms. Educational AI project demonstrating knowledge-based systems, constraint satisfaction, and optimal pathfinding. Built with Python &amp; Experta.
